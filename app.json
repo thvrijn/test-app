@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cd2a20e2-36fe-49d5-8411-de168f05f519"
+      }
+    },
+    "owner": "thomasvr"
   }
 }
