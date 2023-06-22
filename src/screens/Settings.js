@@ -2,9 +2,8 @@ import React from 'react'
 import {Text, View} from 'react-native'
 import * as Icons from "react-native-heroicons/solid";
 
-export default function Home() {
+export default function Settings() {
     return <View>
-        <Icons.HomeIcon/>
-        <Text>Home</Text>
+        <Text>Settings</Text>
     </View>
 }
